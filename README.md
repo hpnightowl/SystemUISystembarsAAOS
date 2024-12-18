@@ -1,5 +1,8 @@
 # System Bar Runtime Resource Overlays
 
+### Point to Note
+ - in order to enable it by default we have to make `android:isStatic="false"` in Android Manifest value as true 
+ 
 ## How to Add in the build?
 
   - Step 1: Clone the repo in path vendor/oem/
