@@ -20,7 +20,7 @@ package {
 
 // Sets the CarSystemUI system bar position to left only.
 runtime_resource_overlay {
-    name: "CarNoSystemUIBars",
+    name: "CarNoSystemUIBarsRRO",
     resource_dirs: ["res"],
     manifest: "AndroidManifest.xml",
     system_ext_specific: true
